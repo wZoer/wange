@@ -12,7 +12,7 @@ title                    : "马瑞王 / 计算机之神 之个人主页"
 title_separator          : "-"
 name                     : &name "王中王"
 description              : &description "一个计算机非常屌的人"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wzoer.github.io/wange # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
